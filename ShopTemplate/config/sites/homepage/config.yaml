@@ -1,0 +1,14 @@
+base: /
+languages:
+  -
+    title: Deutsch
+    enabled: true
+    languageId: 1
+    base: /
+    locale: de-DE
+    navigationTitle: ''
+    flag: de
+    hreflang: ''
+    websiteTitle: ''
+rootPageId: 1
+websiteTitle: ''
